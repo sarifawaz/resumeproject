@@ -1,0 +1,6 @@
+.btn-link:hover {
+    background-color: #3c3c3c!important;
+}
+.card-img-top{
+    object-fit: scale-down!important;
+}
